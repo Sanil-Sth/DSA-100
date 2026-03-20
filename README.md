@@ -16,7 +16,7 @@
 | Day | Problem | Topic | Difficulty | Solution |
 |-----|---------|-------|------------|----------|
 | 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays & Hashing | Easy | [day_01_two_sum.py](./day_01_two_sum.py) |
-| 02 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | [day_02_valid_parentheses.py](./day_02_valid_parentheses.py) |
+| 02 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | [day_02_valid_parentheses.py](./day_02_valid_parenthesis.py) |
 
 ---
 
