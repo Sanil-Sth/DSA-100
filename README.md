@@ -48,7 +48,7 @@
 DSA-100/
 ├── README.md
 ├── day_01_two_sum.py
-├── day_02_valid_parentheses.py
+├── day_02_valid_parenthesis.py
 └── ...
 ```
 
